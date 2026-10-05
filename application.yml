@@ -10,7 +10,7 @@ lavalink:
   server:
     password: "${LAVALINK_SERVER_PASSWORD:youshallnotpass}"
     sources:
-      youtube: false
+      youtube: true
       soundcloud: true
       http: true
       local: false
